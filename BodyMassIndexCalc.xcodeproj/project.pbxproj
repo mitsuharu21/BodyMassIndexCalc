@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D02D26F924657A1D00BF62CC /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D02D26F824657A1D00BF62CC /* ResultViewController.swift */; };
 		D0ED9A2E246424E600480255 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0ED9A2D246424E600480255 /* AppDelegate.swift */; };
 		D0ED9A30246424E600480255 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0ED9A2F246424E600480255 /* ViewController.swift */; };
 		D0ED9A33246424E600480255 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0ED9A31246424E600480255 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D02D26F824657A1D00BF62CC /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		D0ED9A2A246424E600480255 /* BodyMassIndexCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BodyMassIndexCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0ED9A2D246424E600480255 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0ED9A2F246424E600480255 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			children = (
 				D0ED9A2D246424E600480255 /* AppDelegate.swift */,
 				D0ED9A2F246424E600480255 /* ViewController.swift */,
+				D02D26F824657A1D00BF62CC /* ResultViewController.swift */,
 				D0ED9A31246424E600480255 /* Main.storyboard */,
 				D0ED9A34246424E700480255 /* Assets.xcassets */,
 				D0ED9A36246424E700480255 /* LaunchScreen.storyboard */,
@@ -199,6 +202,7 @@
 			files = (
 				D0ED9A30246424E600480255 /* ViewController.swift in Sources */,
 				D0ED9A2E246424E600480255 /* AppDelegate.swift in Sources */,
+				D02D26F924657A1D00BF62CC /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
